@@ -59,6 +59,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 - [Swave](https://github.com/sirthias/swave) [Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 - [Streamz](https://github.com/python-streamz/streamz) [Python] - A lightweight library for building pipelines to manage continuous streams of data; supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - A fully embeddable data streaming engine and stream processing API for Java.
+- [Tributary](https://github.com/timkpaine/tributary) [Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ### Streaming Application
 
@@ -92,6 +93,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java] - Taobao's high available, high performance distributed messaging system
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go] - fast disk-backed messaging solution
 - [nsq](https://github.com/nsqio/nsq) [Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
+- [RudderStack](https://github.com/rudderlabs/rudder-server) [Go] - an open source customer data infrastructure (segment, mparticle alternative).
 - [suro](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 - [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
@@ -145,6 +147,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) by Tyler Akidau. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
+4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
 
 ## License
 
